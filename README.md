@@ -1,1 +1,1 @@
-# Criando repo
+# Atividade de Banco de Dados - PUC Minas
