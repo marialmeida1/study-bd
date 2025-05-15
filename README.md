@@ -1,4 +1,4 @@
 # Atividade de Banco de Dados - PUC Minas
 
 
-Repositório destinado a banco de dados
+Repositório destinado a banco de dados.
